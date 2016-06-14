@@ -1,4 +1,0 @@
-C:\Users\vsyrtsov\Documents\Docs\prg\Coins\Coins\bin\Debug\Coins.exe
-C:\Users\vsyrtsov\Documents\Docs\prg\Coins\Coins\bin\Debug\Coins.pdb
-C:\Users\vsyrtsov\Documents\Docs\prg\Coins\Coins\obj\x86\Debug\Coins.exe
-C:\Users\vsyrtsov\Documents\Docs\prg\Coins\Coins\obj\x86\Debug\Coins.pdb
